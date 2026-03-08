@@ -2,7 +2,7 @@
 .lexend-giga{
     font-family: "Lexend Giga", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 500;
+    font-weight: 900;
     font-style: normal;
 }
 
@@ -12,7 +12,7 @@ body{
 
 p{
     color: white;
-    font-size: 500;
+    font-size: 900;
     display: block;
     margin: auto;
     text-align: center;
